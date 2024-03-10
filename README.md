@@ -1,2 +1,0 @@
-# megacity-k
-megacity
